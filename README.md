@@ -1,7 +1,7 @@
 ## [Effective Java 3/E 스터디]
 
 ### 목록
-- [ ] 1.생성자 대신 정적 팩터리 메서드를고려하라
+- [x] [1.생성자 대신 정적 팩터리 메서드를고려하라](https://github.com/javabara/effective-java/blob/main/2%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C1/%EC%83%9D%EC%84%B1%EC%9E%90_%EB%8C%80%EC%8B%A0_%EC%A0%95%EC%A0%81_%ED%8C%A9%ED%84%B0%EB%A6%AC_%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC_%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC.md)
 - [ ] 2. 생성자에 매개변수가 많다면 빌더를 고려하라
 - [ ] 3.private 생성자나 열거 타입으로 싱글턴임을보증하라
 - [ ] 4.인스턴스화를 막으려거든 private 생성자를사용하라
