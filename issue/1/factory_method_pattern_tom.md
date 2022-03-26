@@ -119,7 +119,7 @@ public class AsheCreator extends ChampionCreator {
     public static void main(String[] args) {
     final AsheCreator asheCreator = new AsheCreator();
 
-    final Champion ashe = asheCreator.createChampion();
+    final Champion ashe = asheCreator.PickNewChampion();
     ...
 
     ashe.levelUp();
