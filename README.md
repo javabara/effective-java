@@ -8,9 +8,9 @@
 - [x] [4. 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/javabara/effective-java/blob/main/2/4.md)
 - [x] [5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/javabara/effective-java/blob/main/2/5.md)
 - [x] [6. 불필요한 객체 생성을 피하라](https://github.com/javabara/effective-java/blob/main/2/6.md)
-- [ ] [7. 다 쓴 객체 참조를 해제하라](https://github.com/javabara/effective-java/blob/main/2/7.md)
-- [ ] [8. finalizer와 cleaner 사용을 피하라](https://github.com/javabara/effective-java/blob/main/2/8.md)
-- [ ] [9. try-finally보다는 try-with-resources를 사용하라](https://github.com/javabara/effective-java/blob/main/2/9.md)
+- [x] [7. 다 쓴 객체 참조를 해제하라](https://github.com/javabara/effective-java/blob/main/2/7.md)
+- [x] [8. finalizer와 cleaner 사용을 피하라](https://github.com/javabara/effective-java/blob/main/2/8.md)
+- [x] [9. try-finally보다는 try-with-resources를 사용하라](https://github.com/javabara/effective-java/blob/main/2/9.md)
 
 ## 3장 모든 객체의 공통 메서드
 - [ ] [10. equals는 일반 규약을 지켜 재정의하라](https://github.com/javabara/effective-java/blob/main/3/10.md)

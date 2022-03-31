@@ -1,4 +1,4 @@
-#finalizer와 cleaner 사용을 피하라
+# finalizer와 cleaner 사용을 피하라
 
 자바에는 두 가지 객체 소멸자를 제공하지만 예측하기 어렵고, 느리고, 불필요하다. (`finalizer`의 경우 자바 9에서 deprecated 되었다.) 자바는 접근할 수 없게 된 객체를 회수하는 역할을 GC가 담당하며 비메모리 자원을 회수하는 용도는 `try-with-resources`와 `try-finally`를 사용해 해결한다.([아이템 9](https://github.com/javabara/effective-java/blob/main/2/9.md))
 
