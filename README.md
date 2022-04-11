@@ -13,9 +13,9 @@
 - [x] [9. try-finally보다는 try-with-resources를 사용하라](https://github.com/javabara/effective-java/blob/main/2/9.md)
 
 ## 3장 모든 객체의 공통 메서드
-- [ ] [10. equals는 일반 규약을 지켜 재정의하라](https://github.com/javabara/effective-java/blob/main/3/10.md)
-- [ ] [11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/javabara/effective-java/blob/main/3/11.md)
-- [ ] [12. toString을 항상 재정의하라](https://github.com/javabara/effective-java/blob/main/3/12.md)
+- [x] [10. equals는 일반 규약을 지켜 재정의하라](https://github.com/javabara/effective-java/blob/main/3/10.md)
+- [x] [11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/javabara/effective-java/blob/main/3/11.md)
+- [x] [12. toString을 항상 재정의하라](https://github.com/javabara/effective-java/blob/main/3/12.md)
 - [ ] [13. clone 재정의는 주의해서 진행하라](https://github.com/javabara/effective-java/blob/main/3/13.md)
 - [ ] [14. Comparable을 구현할지 고려하라](https://github.com/javabara/effective-java/blob/main/3/14.md)
 
