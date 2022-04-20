@@ -33,7 +33,7 @@
 - [x] [25. 톱레벨 클래스는 한 파일에 하나만 담으라](https://github.com/javabara/effective-java/blob/main/4/25.md)
 
 ## 5장 제네릭
-- [ ] [26. 로 타입은 사용하지말라](https://github.com/javabara/effective-java/blob/main/5/26.md)
+- [x] [26. 로 타입은 사용하지말라](https://github.com/javabara/effective-java/blob/main/5/26.md)
 - [ ] [27. 비검사 경고를 제거하라](https://github.com/javabara/effective-java/blob/main/5/27.md)
 - [ ] [28. 배열보다는 리스트를 사용하라](https://github.com/javabara/effective-java/blob/main/5/28.md)
 - [ ] [29. 이왕이면 제네릭 타입으로 만들라](https://github.com/javabara/effective-java/blob/main/5/29.md)
